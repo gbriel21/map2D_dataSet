@@ -2,7 +2,7 @@
 ### Content
 A dataset with 10 000 2d maps images for training (and soon 2500 for testting). 
 
-![alt text](https://github.com/[gbriel21]/[map2D_dataSet]/blob/[branch]/map56.jpg?raw=true)
+![alt text](https://github.com/[gbriel21]/[map2D_dataSet]/blob/[main]/map58.png?raw=true)
 
 More details in 
 
